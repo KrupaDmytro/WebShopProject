@@ -33,24 +33,10 @@ href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/0.3.0/css
 <script type="text/javascript"
 src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-material-design/4.0.1/bootstrap-material-design.iife.js"></script>
 
-
-<!-- Angular Material requires Angular.js Libraries -->
-<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-animate.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-aria.min.js"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.3/angular-messages.min.js"></script>
-
-<!-- Angular Material Library -->
-<script src="http://ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.js"></script>
-<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/angular_material/1.1.0-rc2/angular-material.min.css">
-
-
-<!-- /Material design -->
-
 </head>
 
 
 <body>
-<script type="text/javascript" src="resources/js/langswitcher.js"></script>
 <div class="wrapper">
   <div class="header"><tiles:insertAttribute name="header" /></div>
 
